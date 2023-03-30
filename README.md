@@ -7,4 +7,4 @@
 
 `cd RANDOM`
 
-`python3 UCHIHA
+`python3 UCHIHA.py`
